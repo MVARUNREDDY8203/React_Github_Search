@@ -17,6 +17,11 @@
 ![image](https://github.com/MVARUNREDDY8203/React_Github_Search/assets/94187286/9c155094-c61f-489a-b7c2-54605297984f)
 ![image](https://github.com/MVARUNREDDY8203/React_Github_Search/assets/94187286/efa5e4b4-8690-4185-b113-dfaad8d036c0)
 
+### About The App
+- This app was built on Nextjs
+- I have used a react-ui-component library [Chakra-ui](https://chakra-ui.com/).
+- I have used the [Github-API](https://docs.github.com/en/rest) for fetching github user data.
+  
 ### Running the project
 
 First, run command:
